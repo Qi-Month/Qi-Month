@@ -1,31 +1,36 @@
-<div align="center">
+````md
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0b0b,50:161616,100:000000&text=Qiyue&fontColor=ffffff&fontSize=54&fontAlignY=42&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0f0f,50:1f1f1f,100:000000&text=Qi%20Month&fontColor=ffffff&fontSize=58&fontAlignY=45&animation=fadeIn" />
+<div align="center">
 
 # 柒月
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=1000&color=C9D1D9&center=true&vCenter=true&width=460&lines=Building+strange+things...;Probably+breaking+them+too.;Sleep+is+optional."/>
+
+</div>
+
+<br>
+
 ```java
-while(alive) {
+while (alive) {
     eat();
     code();
     regret();
-    playingGame();
+    playGames();
     sleep();
     repeat();
 }
-```
+````
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Building+strange+things...;Probably+breaking+them+too.;Sleep+is+optional."/>
+<br>
 
----
-
-### 🜂 About
+### About
 
 ```java
-public class QiMonth {
-    public boolean overthink = true;
-    public boolean sleepEnough = false;
-    int chaosLevel = 100;
+public class Qiyue {
+
+    boolean overthink = true;
+    boolean sleepEnough = false;
 
     void daily() {
         makeStuff();
@@ -35,41 +40,45 @@ public class QiMonth {
 }
 ```
 
----
+<br>
 
-### ⚙ Runtime
+### Runtime
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,git,idea,vscode,linux&theme=dark"/>
 </p>
 
----
+<br>
 
-### 📊 Status
+### Status
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Qi-Month&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qi-Month&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Qi-Month&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Qi-Month&theme=transparent&hide_border=true"/>
 </p>
 
----
+<br>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg">
-</picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg">
 
----
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake.svg">
 
-### ☄
+<img alt="snake"
+ src="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg"> </picture>
+
+<br>
 
 ```txt
 "Perfection is achieved,
 not when there is nothing more to add,
 but when there is nothing left to take away."
 ```
-</div>
+
+```
+```
