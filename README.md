@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-    <!-- 数据概览 -->
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Qi-Month&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
     <!-- 连续贡献数据记录 -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img align="center" width="400" src="https://streak-stats.demolab.com?user=Qi-Month&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
@@ -22,12 +19,6 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Qi-Month&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
     <br/>
-    <!-- 代码编写总时长 -->
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Erhai_lake&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-    <!-- 项目语言比例 -->
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-Month&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
     <br/>
     <!-- 技术栈图标展示 -->
     <!-- https://github.com/tandpfun/skill-icons -->
