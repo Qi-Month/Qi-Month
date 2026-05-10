@@ -4,12 +4,14 @@
 
 # 柒月
 
-```
+```java
 while(alive) {
-    eat();
-    code();
-    regret();
-    repeat();
+	eat();
+	code();
+	regret();
+	playingGame();
+	sleep();
+	repeat();
 }
 ```
 
@@ -19,19 +21,18 @@ while(alive) {
 
 ### 🜂 About
 
-```cpp
-class Me {
-    public:
-        bool overthink = true;
-        bool sleepEnough = false;
-        int chaosLevel = 100;
+```java
+public class QiMonth {
+	public boolean overthink = true;
+	public boolean sleepEnough = false;
+	int chaosLevel = 100;
 
-        void daily() {
-            makeStuff();
-            breakStuff();
-            remakeStuff();
-        }
-};
+	void daily() {
+		makeStuff();
+		breakStuff();
+		remakeStuff();
+	}
+}
 ```
 
 ---
