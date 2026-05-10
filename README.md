@@ -22,7 +22,7 @@
     <br/>
     <!-- 技术栈图标展示 -->
     <!-- https://github.com/tandpfun/skill-icons -->
-    <img align="center" src="https://skillicons.dev/icons?i=vue,js,java,md,git,idea,vsc&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=vue,js,java,md,git,idea,vscode&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
