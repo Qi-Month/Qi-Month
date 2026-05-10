@@ -1,5 +1,4 @@
-````md
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0b0b,50:161616,100:000000&text=Qiyue&fontColor=ffffff&fontSize=54&fontAlignY=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0b0b,50:161616,100:000000&text=Qi-Month&fontColor=ffffff&fontSize=54&fontAlignY=42&animation=fadeIn"/>
 
 <div align="center">
 
@@ -80,5 +79,4 @@ not when there is nothing more to add,
 but when there is nothing left to take away."
 ```
 
-```
 ```
