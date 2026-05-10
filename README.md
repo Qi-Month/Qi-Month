@@ -50,7 +50,7 @@ class Me {
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Qi-Month&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Qi-Month &theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Qi-Month&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -58,9 +58,9 @@ class Me {
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qi-Month /Qi-Month /output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qi-Month /Qi-Month /output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qi-Month /Qi-Month /output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qi-Month/Qi-Month/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
