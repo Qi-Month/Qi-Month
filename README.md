@@ -6,12 +6,12 @@
 
 ```java
 while(alive) {
-	eat();
-	code();
-	regret();
-	playingGame();
-	sleep();
-	repeat();
+    eat();
+    code();
+    regret();
+    playingGame();
+    sleep();
+    repeat();
 }
 ```
 
@@ -23,15 +23,15 @@ while(alive) {
 
 ```java
 public class QiMonth {
-	public boolean overthink = true;
-	public boolean sleepEnough = false;
-	int chaosLevel = 100;
+    public boolean overthink = true;
+    public boolean sleepEnough = false;
+    int chaosLevel = 100;
 
-	void daily() {
-		makeStuff();
-		breakStuff();
-		remakeStuff();
-	}
+    void daily() {
+        makeStuff();
+        breakStuff();
+        remakeStuff();
+    }
 }
 ```
 
@@ -72,8 +72,4 @@ public class QiMonth {
 not when there is nothing more to add,
 but when there is nothing left to take away."
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1020,35:111827,70:1E293B,100:334155"/>
-
 </div>
-```
