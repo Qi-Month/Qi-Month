@@ -1,18 +1,17 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,35:111827,70:1E293B,100:334155&text=&desc=&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0f0f,50:1f1f1f,100:000000&text=Qi%20Month&fontColor=ffffff&fontSize=58&fontAlignY=45&animation=fadeIn" />
 
 # 柒月
 
-```java
+```
 while(alive) {
     eat();
     code();
     regret();
     repeat();
 }
-````
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Building+strange+things...;Probably+breaking+them+too.;Sleep+is+optional."/>
 
