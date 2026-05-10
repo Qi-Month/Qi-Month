@@ -31,7 +31,7 @@
     <br/>
     <!-- 技术栈图标展示 -->
     <!-- https://github.com/tandpfun/skill-icons -->
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,java,md,git,androidstudio&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=js,py,java,md,git&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
